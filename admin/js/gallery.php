@@ -1,0 +1,12 @@
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.wysiwyg.js"></script>
+<script src="js/custom.js"></script>
+<script src="js/jquery.checkbox.min.js"></script>
+<!--<script src="js/flot.js"></script>
+<script src="js/flot.resize.js"></script>
+<script src="js/flot-time.js"></script>
+<script src="js/flot-pie.js"></script>
+<script src="js/flot-graphs.js"></script>
+<script src="js/cycle.js"></script>-->
+<script src="js/jquery.tablesorter.min.js"></script>
+<script src="js/dropzone.js"></script>
